@@ -1,1 +1,1 @@
-# studynotion-edtech-project
+# Study Notion - EdTech - Project
